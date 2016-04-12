@@ -1,0 +1,52 @@
+PODS:
+  - Atlas (1.0.16):
+    - LayerKit (>= 0.17.1)
+  - AWSCore (2.3.6)
+  - AWSMobileAnalytics (2.3.6):
+    - AWSCore (= 2.3.6)
+  - AWSS3 (2.3.6):
+    - AWSCore (= 2.3.6)
+  - Bolts (1.3.0):
+    - Bolts/AppLinks (= 1.3.0)
+    - Bolts/Tasks (= 1.3.0)
+  - Bolts/AppLinks (1.3.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.3.0)
+  - Firebase (2.5.1)
+  - GoogleMaps (1.10.3)
+  - LayerKit (0.17.5)
+  - Parse (1.8.5):
+    - Bolts/Tasks (>= 1.2.2)
+  - ParseCrashReporting (1.8.5):
+    - Bolts/Tasks (>= 1.2.2)
+    - Parse (~> 1.8.5)
+  - ParseUI (1.1.6):
+    - Bolts/Tasks (~> 1.2)
+    - Parse (~> 1.8)
+
+DEPENDENCIES:
+  - Atlas
+  - AWSMobileAnalytics
+  - AWSS3
+  - Bolts
+  - Firebase
+  - GoogleMaps
+  - LayerKit
+  - Parse
+  - ParseCrashReporting
+  - ParseUI
+
+SPEC CHECKSUMS:
+  Atlas: d9ae5e5f6cd4012555f21cdbab8d2a373d5f2b3d
+  AWSCore: 917d84b32974136194a905b98c0ae25c9f3350b8
+  AWSMobileAnalytics: 56ce9e671640fbd702f8ce52b0f128e525f3e51c
+  AWSS3: 1caaf6b45100503fecf3d418c394519a89409a74
+  Bolts: 805a4a87413e49d4a0c2b7d469084cbc46b09342
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  GoogleMaps: 945e4ac3b74bcca3ddada51df256eb7beddb474d
+  LayerKit: e9445015ef5f30a9777ba245aa48bd723ee8c697
+  Parse: 17ad8e0677ed682f7f00503860fcda0f4eb74168
+  ParseCrashReporting: d912cb10b7997ef79ac475db30997e64d48c2c98
+  ParseUI: 8a22e448c03f825203d8c379c80523517f68baa3
+
+COCOAPODS: 0.39.0

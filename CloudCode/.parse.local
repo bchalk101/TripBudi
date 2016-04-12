@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Trip Away": {
+      "applicationId": "nJtfhDQRgiHdWgvaanNxA9Lo1nIwKWZsA4ynsgtV"
+    },
+    "_default": {
+      "link": "Trip Away"
+    }
+  }
+}

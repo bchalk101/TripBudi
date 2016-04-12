@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "509BD043B7D6092751E2A7135ED1910F9DDE1C89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : 0,
+    "509BD043B7D6092751E2A7135ED1910F9DDE1C89" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7C502E89-ED75-40E1-9C6B-AC4434144683",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : "hikeIt\/hikeIt\/",
+    "509BD043B7D6092751E2A7135ED1910F9DDE1C89" : "hikeIt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hikeIt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "hikeIt.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bchalk101\/hikeIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "509BD043B7D6092751E2A7135ED1910F9DDE1C89"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bchalk101\/tripaway.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC"
+    }
+  ]
+}
