@@ -1,30 +1,30 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "509BD043B7D6092751E2A7135ED1910F9DDE1C89",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EB9F9A4D585A568FA786B4961A5393187C70C431",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : 0,
-    "509BD043B7D6092751E2A7135ED1910F9DDE1C89" : 0
+    "EB9F9A4D585A568FA786B4961A5393187C70C431" : 0,
+    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "09B90B6D-2731-484A-816F-1994D9ED7C59",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : "hikeIt\/hikeIt\/",
-    "509BD043B7D6092751E2A7135ED1910F9DDE1C89" : "hikeIt\/"
+    "EB9F9A4D585A568FA786B4961A5393187C70C431" : "hikeIt\/",
+    "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC" : "hikeIt\/hikeIt\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Trip Away",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Trip Away.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bchalk101\/Trip-Away.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "509BD043B7D6092751E2A7135ED1910F9DDE1C89"
-    },
-    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bchalk101\/tripaway.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8981ACD3EF631BD8A62EEDBAF19805664BB1F4DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bchalk101\/Trip-Away.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB9F9A4D585A568FA786B4961A5393187C70C431"
     }
   ]
 }

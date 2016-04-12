@@ -458,11 +458,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "hikeIt/TripDetailsTableViewController.m"
-            timestampString = "482148393.10368"
+            timestampString = "482151918.721639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "447"
-            endingLineNumber = "447"
+            startingLineNumber = "507"
+            endingLineNumber = "507"
             landmarkName = "-changedDate:"
             landmarkType = "5">
          </BreakpointContent>
@@ -474,11 +474,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "hikeIt/TripDetailsTableViewController.m"
-            timestampString = "482148393.10368"
+            timestampString = "482151918.721639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "449"
-            endingLineNumber = "449"
+            startingLineNumber = "509"
+            endingLineNumber = "509"
             landmarkName = "-changedDate:"
             landmarkType = "5">
          </BreakpointContent>
